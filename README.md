@@ -20,7 +20,7 @@ Considero muy importante el aprendizaje de un nuevo lenguaje de programación ya
 
 [![uq-2023-1-prog2-parcial1](https://img.shields.io/github/stars/Corem05/uq-2023-1-prog2-parcial1?label=Programacion%20II%20-%20parcial%20I%20|%20biblioteca&style=for-the-badge)](https://github.com/Corem05/uq-2023-1-prog2-parcial1)
 
-[![uq-2023-1-prog2-parcial2](https://img.shields.io/github/stars/Corem05/uq-2023-1-prog2-parcial2?label=Programacion%20II%20parcial%20II%20|%20Agenda%20Telefonica&style=for-the-badge)](https://github.com/Corem05/uq-2023-1-prog2-parcial2)
+[![uq-2023-1-prog2-parcial2](https://img.shields.io/github/stars/Corem05/uq-2023-1-prog2-parcial2?label=Programacion%20II%20-%20parcial%20II%20|%20Agenda%20Telefonica&style=for-the-badge)](https://github.com/Corem05/uq-2023-1-prog2-parcial2)
 
 [![uq-2023-1-prog2-parcial3](https://img.shields.io/github/stars/Corem05/uq-2023-1-prog2-parcial2?label=Programacion%20II%20-%20parcial%20III%20|%20Diplomado&style=for-the-badge)](https://github.com/Corem05/uniquindio/tree/main/programacion%20II%20-%2020231/Taller%208%20-%20parcial%203)
 
