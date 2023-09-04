@@ -18,26 +18,40 @@ Considero muy importante el aprendizaje de un nuevo lenguaje de programación ya
 
 ### Puedes ver mis proyectos aquí:
 
-# <img alt="Static Badge" src="https://img.shields.io/badge/Java-ec0c16?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010">
-[![uq-2022-2-proyecto](https://img.shields.io/github/stars/Corem05/uq-2022-2-proyecto?label=Programacion%20I%20-%20Proyecto%20Final%20|%20Cinema&style=for-the-badge&color=red)](https://github.com/Corem05/uq-2022-2-proyecto)
+### <li>Programacion I</li>
 
-[![uq-2023-1-prog2-parcial1](https://img.shields.io/github/stars/Corem05/uq-2023-1-prog2-parcial1?label=Programacion%20II%20-%20parcial%20I%20|%20biblioteca&style=for-the-badge)](https://github.com/Corem05/uq-2023-1-prog2-parcial1)
+![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)
+[![uq-2022-2-proyecto](https://img.shields.io/github/stars/Corem05/uq-2022-2-proyecto?label=Proyecto%20Final%20|%20Cinema&style=for-the-badge&color=red)](https://github.com/Corem05/uq-2022-2-proyecto)
 
-[![uq-2023-1-prog2-parcial2](https://img.shields.io/github/stars/Corem05/uq-2023-1-prog2-parcial2?label=Programacion%20II%20-%20parcial%20II%20|%20Agenda%20Telefonica&style=for-the-badge)](https://github.com/Corem05/uq-2023-1-prog2-parcial2)
+### <li>Programacion II</li>
+
+![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)
+[![uq-2023-1-prog2-parcial1](https://img.shields.io/github/stars/Corem05/uq-2023-1-prog2-parcial1?label=Parcial%20I%20|%20biblioteca&style=for-the-badge)](https://github.com/Corem05/uq-2023-1-prog2-parcial1)
+
+![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)
+[![uq-2023-1-prog2-parcial2](https://img.shields.io/github/stars/Corem05/uq-2023-1-prog2-parcial2?label=Parcial%20II%20|%20Agenda%20Telefonica&style=for-the-badge)](https://github.com/Corem05/uq-2023-1-prog2-parcial2)
 [![parcial2-uq-20231](https://img.shields.io/github/contributors/Corem05/uq-2023-1-prog2-parcial2?style=for-the-badge&color=ffff00)](https://github.com/Corem05/uq-2023-1-prog2-parcial2/graphs/contributors)
 
-[![uq-2023-1-prog2-parcial3](https://img.shields.io/github/stars/Corem05/uq-2023-1-prog2-parcial2?label=Programacion%20II%20-%20parcial%20III%20|%20Diplomado&style=for-the-badge)](https://github.com/Corem05/uniquindio/tree/main/programacion%20II%20-%2020231/Taller%208%20-%20parcial%203)
+![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)
+[![uq-2023-1-prog2-parcial3](https://img.shields.io/github/stars/Corem05/uq-2023-1-prog2-parcial2?label=Parcial%20III%20|%20Diplomado&style=for-the-badge)](https://github.com/Corem05/uniquindio/tree/main/programacion%20II%20-%2020231/Taller%208%20-%20parcial%203)
 
-[![centro-impresion](https://img.shields.io/github/stars/Corem05/uniquindio?label=Programacion%20II%20-%20Proyecto%20|%20Centro%20de%20Impresion&style=for-the-badge)](https://github.com/Corem05/uniquindio/tree/main/programacion%20II%20-%2020231/Taller%203%20-%20centro%20impresion)
+![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)
+[![centro-impresion](https://img.shields.io/github/stars/Corem05/uniquindio?label=Proyecto%20|%20Centro%20de%20Impresion&style=for-the-badge)](https://github.com/Corem05/uniquindio/tree/main/programacion%20II%20-%2020231/Taller%203%20-%20centro%20impresion)
 
-[![trader-enterprise](https://img.shields.io/github/stars/Corem05/uniquindio?label=Programacion%20II%20-%20Proyecto%20|%20Traders%20Enterprise&style=for-the-badge)](https://github.com/Corem05/uniquindio/tree/main/programacion%20II%20-%2020231/Taller%206%20-%20streams/TraderEnterprise)
+![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)
+[![trader-enterprise](https://img.shields.io/github/stars/Corem05/uniquindio?label=Proyecto%20|%20Traders%20Enterprise&style=for-the-badge)](https://github.com/Corem05/uniquindio/tree/main/programacion%20II%20-%2020231/Taller%206%20-%20streams/TraderEnterprise)
 
-[![empresa-energia](https://img.shields.io/github/stars/Corem05/uniquindio?label=Programacion%20II%20-%20Proyecto%20|%20Empresa%20de%20Energia&style=for-the-badge)](https://github.com/Corem05/uniquindio/tree/main/programacion%20II%20-%2020231/Taller%207%20-%20parcial%203%202022-2/EmpresaEnergia)
+![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)
+[![empresa-energia](https://img.shields.io/github/stars/Corem05/uniquindio?label=Proyecto%20|%20Empresa%20de%20Energia&style=for-the-badge)](https://github.com/Corem05/uniquindio/tree/main/programacion%20II%20-%2020231/Taller%207%20-%20parcial%203%202022-2/EmpresaEnergia)
 
-[![carro-uq](https://img.shields.io/github/stars/Corem05/uq-2023-1-proyecto?label=Programacion%20II%20-%20Proyecto%20Final%20|%20Concesionario&style=for-the-badge&color=red)](https://github.com/Corem05/uq-2023-1-proyecto)
+![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)
+[![carro-uq](https://img.shields.io/github/stars/Corem05/uq-2023-1-proyecto?label=Proyecto%20Final%20|%20Concesionario&style=for-the-badge&color=red)](https://github.com/Corem05/uq-2023-1-proyecto)
 [![carro-uq-contributors](https://img.shields.io/github/contributors/Corem05/uq-2023-1-proyecto?style=for-the-badge&color=ffff00)](https://github.com/Corem05/uq-2023-1-proyecto/graphs/contributors)
 
-[![clinica-veterinaria](https://img.shields.io/github/stars/ElJuanchito/ClinicaVeterinaria?label=Programacion%20III%20-%20Proyecto%20|%20Clinica%20Veterinaria&style=for-the-badge)](https://github.com/ElJuanchito/ClinicaVeterinaria) 
+### <li>Programacion III</li>
+
+![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)
+[![clinica-veterinaria](https://img.shields.io/github/stars/ElJuanchito/ClinicaVeterinaria?label=Proyecto%20|%20Clinica%20Veterinaria&style=for-the-badge)](https://github.com/ElJuanchito/ClinicaVeterinaria) 
 [![clinica-contributors](https://img.shields.io/github/contributors/ElJuanchito/ClinicaVeterinaria?style=for-the-badge&color=ffff00)](https://github.com/ElJuanchito/ClinicaVeterinaria/graphs/contributors)
 
 
