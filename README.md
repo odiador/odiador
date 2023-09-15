@@ -1,24 +1,40 @@
-# Mi Perfil
+# 👤 Mi Perfil 👤
 
-Soy Juan Manuel Amador, soy estudiante de Ingeniería de Sistemas y Computación en la Universidad del Quindío y me apasiona la programación.
-Actualmente estoy preparandome para entrar en el mundo de la programacion competitiva y muchos ámbitos mas.
+Soy Juan Manuel Amador y estudio Ingeniería de Sistemas y Computación en la Universidad del Quindío.
+Actualmente me estoy preparando para entrar en el mundo de la programacion competitiva y muchos ámbitos mas. 
 
-# Metas 
-Considero muy importante el aprendizaje de un nuevo lenguaje de programación ya que es fundamental para optimizar tiempos de desarrollo en la programación competitiva, es por esto que como meta a corto plazo planeo aprender C++
+# 🎯 Metas 🎯
+### ![cplusplus](https://img.shields.io/badge/C++-5566b9?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
 
-![cplusplus](https://img.shields.io/badge/C++-5566b9?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)</br>
+Con el objetivo de mejorar mis habilidades en programación competitiva, me he propuesto aprender C++ a corto plazo. Mi objetivo es dominar este lenguaje para optimizar los tiempos de desarrollo en mis proyectos y competencias. Además, planeo continuar explorando la resolución de problemas en general. Mi meta a largo plazo es contribuir activamente en proyectos desafiantes.
 
+### [![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)](https://github.com/Corem05/uq-2023-1-proyecto)
 
+Además, en el mundo de Java tengo también otras metas, como lo es el aprendizaje sobre persistencia, sockets y programación web, que me ayudarán en el desarrollo de proyectos y aplicaciones mas robustas y sistemas cliente-servidor
 
+# 🚀 Experiencia 🚀
 
-# Proyectos
-### Puedes ver mis trabajos aquí:
+Mi experiencia en el mundo de la programación se basa en proyectos concretos que he desarrollado tanto solo como en equipo. A medida que avanzo en mi carrera he tenido la oportunidad de trabajar en diversos proyectos que han ampliado mis conocimientos y habilidades en el campo de la programación.
 
-[![Uniquindio](https://img.shields.io/github/stars/corem05/uniquindio?label=Uniquindio&style=for-the-badge&color=#44e05d)](https://github.com/Corem05/uniquindio)
+# ⭐ Proyectos Destacados ⭐
 
-[![Competences](https://img.shields.io/github/stars/corem05/competences?label=Competences&style=for-the-badge&color=#44e05d)](https://github.com/Corem05/competences)
+### <li>🐾 Clinica Veterinaria 🐾</li>
 
-### Puedes ver mis proyectos aquí:
+Este proyecto mejora la gestión y atención en una Clinica Veterinaria. La clínica necesitaba una solución eficiente para llevar un registro detallado de la atención de las mascotas por parte de los veterinarios, así como la generación de facturas al finalizar atenciones. El software permite a la clínica mantener un registro preciso de clientes, mascotas, atenciones realizadas, y facturas.
+
+[![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)](https://github.com/ElJuanchito/ClinicaVeterinaria) 
+[![clinica-veterinaria](https://img.shields.io/github/stars/ElJuanchito/ClinicaVeterinaria?label=Proyecto%20|%20Clinica%20Veterinaria&style=for-the-badge)](https://github.com/ElJuanchito/ClinicaVeterinaria) 
+[![clinica-contributors](https://img.shields.io/github/contributors/ElJuanchito/ClinicaVeterinaria?style=for-the-badge&color=ffff00)](https://github.com/ElJuanchito/ClinicaVeterinaria/graphs/contributors)
+
+### <li> 🚗 Concesionario UQ 🚗 </li>
+
+Este proyecto representa una renovación del sistema de información de una empresa dedicada a la compra, venta y alquiler de vehículos. Se centra en la implementación de un sistema de gestión de vehículos que permite el registro y la administración eficiente de una variedad de vehículos.
+
+[![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)](https://github.com/Corem05/uq-2023-1-proyecto)
+[![carro-uq](https://img.shields.io/github/stars/Corem05/uq-2023-1-proyecto?label=Proyecto%20Final%20|%20Concesionario&style=for-the-badge&color=red)](https://github.com/Corem05/uq-2023-1-proyecto)
+[![carro-uq-contributors](https://img.shields.io/github/contributors/Corem05/uq-2023-1-proyecto?style=for-the-badge&color=ffff00)](https://github.com/Corem05/uq-2023-1-proyecto/graphs/contributors)
+
+# 🛠️ Otros Proyectos 🛠️
 
 ### <li>Programacion I</li>
 
@@ -57,10 +73,12 @@ Considero muy importante el aprendizaje de un nuevo lenguaje de programación ya
 [![clinica-contributors](https://img.shields.io/github/contributors/ElJuanchito/ClinicaVeterinaria?style=for-the-badge&color=ffff00)](https://github.com/ElJuanchito/ClinicaVeterinaria/graphs/contributors)
 
 
+# 📂 Trabajos 📂
 
-# IDES
-Actualmente uso los siguiente entornos de desarrollo:
+[![Uniquindio](https://img.shields.io/github/stars/corem05/uniquindio?label=Uniquindio&style=for-the-badge&color=#44e05d)](https://github.com/Corem05/uniquindio)
 
-[![Eclipse](https://img.shields.io/badge/Eclipse-2a2051?style=for-the-badge&logo=EclipseIDE&logoColor=white&labelColor=101010)</br>](https://www.eclipse.org/)
-[![VSCode](https://img.shields.io/badge/Visual_Studio-24adf3?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)</br>](https://code.visualstudio.com/)
-[![VSCode](https://img.shields.io/badge/CLion-fb348d?style=for-the-badge&logo=clion&logoColor=white&labelColor=101010)</br>](https://www.jetbrains.com/clion/download/#section=windows)
+[![Competences](https://img.shields.io/github/stars/corem05/competences?label=Competences&style=for-the-badge&color=#44e05d)](https://github.com/Corem05/competences)
+
+# 💡 Skills 💡
+### ![cplusplus](https://img.shields.io/badge/C++-5566b9?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
+[![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)](https://github.com/Corem05/uq-2023-1-proyecto)
