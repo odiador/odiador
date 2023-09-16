@@ -26,6 +26,8 @@ Este proyecto mejora la gestión y atención en una Clinica Veterinaria. La clí
 [![clinica-veterinaria](https://img.shields.io/github/stars/ElJuanchito/ClinicaVeterinaria?label=Proyecto%20|%20Clinica%20Veterinaria&style=for-the-badge)](https://github.com/ElJuanchito/ClinicaVeterinaria) 
 [![clinica-contributors](https://img.shields.io/github/contributors/ElJuanchito/ClinicaVeterinaria?style=for-the-badge&color=ffff00)](https://github.com/ElJuanchito/ClinicaVeterinaria/graphs/contributors)
 
+![clinica-foto](clinicaVeterinaria.png "🐾 Clinica Veterinaria🐾")
+
 ### <li> 🚗 Concesionario UQ 🚗 </li>
 
 Este proyecto representa una renovación del sistema de información de una empresa dedicada a la compra, venta y alquiler de vehículos. Se centra en la implementación de un sistema de gestión de vehículos que permite el registro y la administración eficiente de una variedad de vehículos.
@@ -34,6 +36,7 @@ Este proyecto representa una renovación del sistema de información de una empr
 [![carro-uq](https://img.shields.io/github/stars/Corem05/uq-2023-1-proyecto?label=Proyecto%20Final%20|%20Concesionario&style=for-the-badge&color=red)](https://github.com/Corem05/uq-2023-1-proyecto)
 [![carro-uq-contributors](https://img.shields.io/github/contributors/Corem05/uq-2023-1-proyecto?style=for-the-badge&color=ffff00)](https://github.com/Corem05/uq-2023-1-proyecto/graphs/contributors)
 
+![carrouq-foto](carroUQ.png "🚗 Concesionario UQ 🚗")
 # 🛠️ Otros Proyectos 🛠️
 
 ### <li>Programacion I</li>
