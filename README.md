@@ -75,6 +75,10 @@ Este proyecto representa una renovación del sistema de información de una empr
 [![clinica-veterinaria](https://img.shields.io/github/stars/ElJuanchito/ClinicaVeterinaria?label=Proyecto%20|%20Clinica%20Veterinaria&style=for-the-badge)](https://github.com/ElJuanchito/ClinicaVeterinaria) 
 [![clinica-contributors](https://img.shields.io/github/contributors/ElJuanchito/ClinicaVeterinaria?style=for-the-badge&color=ffff00)](https://github.com/ElJuanchito/ClinicaVeterinaria/graphs/contributors)
 
+[![logo-java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)](https://github.com/Tourment0412/Laboratorio1) 
+[![alquila-facil](https://img.shields.io/github/stars/Tourment0412/Laboratorio1?label=Laboratorio%20|%20Alquila%20Fácil&style=for-the-badge)](https://github.com/Tourment0412/Laboratorio1) 
+[![alquila-contributors](https://img.shields.io/github/contributors/Tourment0412/Laboratorio1?style=for-the-badge&color=ffff00)](https://github.com/Tourment0412/Laboratorio1/graphs/contributors)
+
 
 # 📂 Trabajos 📂
 
