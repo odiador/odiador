@@ -3,7 +3,7 @@
     <table>
       <tr>
         <td>
-          <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hola!;¡Soy+Juan+Manuel+Amador!;" />
+          <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=¡Hola!;¡Soy+Juan+Manuel+Amador!;" />
         </td>
       </tr>
     </table>
