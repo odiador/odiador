@@ -10,13 +10,6 @@
   </div>
 </h3>
 
-# Acerca de mí
-
-- 🧑‍🎓 Séptimo semestre en la <a href="https://www.uniquindio.edu.co/">Universidad del Quindío</a>
-- 🚧 en remodelación 🚧
-
-<h1 align="center"><a href="https://odiador.github.io/amador-homepage/">Mi portfolio</a> (en remodelación también)</h1>
-
 # Stats
 <div align="center">  
   <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=odiador&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -29,15 +22,35 @@
 </div>
 
 
+# [EN REMODELACIÓN] Acerca de mí
 
-# 💻 Lenguajes, frameworks y herramientas (outdated)
+- 🧑‍🎓 Séptimo semestre en la <a href="https://www.uniquindio.edu.co/">Universidad del Quindío</a>
+- 🚧 en remodelación 🚧
+
+<div align="center">
+  <a href="https://open.spotify.com/user/315eami6s62lrri5ndfd6jmnduja">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315eami6s62lrri5ndfd6jmnduja&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+
+# [EN REMODELACIÓN] Mi portfolio 
+
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,react,ts,css" />
+
+[![HomePage](homepage.png "Portafolio")](https://odiador.github.io/amador-homepage/ "Portafolio")
+
+
+
+# [OUTDATED] 💻 Lenguajes, frameworks y herramientas
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,clion,eclipse,docker,arduino,idea" />
   <br>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,html,css,md" /><br>
 </div>
 
-# 🔍 Lenguajes, frameworks y herramientas a explorar (outdated)
+# [OUTDATED] 🔍 Lenguajes, frameworks y herramientas a explorar
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,ruby,ts,js" /><br>
@@ -45,7 +58,7 @@
 </div>
 
 
-# Proyectos destacados (outdated)
+# [OUTDATED] ⭐ Proyectos destacados
 
 |  Ícono                   | Nombre de Proyecto             |  Descripción | Imagen |
 :-------------------------:|:-------------------------:|:----------------------|:-------------------------:
