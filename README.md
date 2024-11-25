@@ -12,7 +12,7 @@
 
 # Acerca de mí
 
-- 🧑‍🎓 Séptimo semestre en la <a href="https://www.uniquindio.edu.co/">Universidad del Quindío</a>).
+- 🧑‍🎓 Séptimo semestre en la <a href="https://www.uniquindio.edu.co/">Universidad del Quindío</a>
 - 🚧 en remodelación 🚧
 
 <h1 align="center"><a href="https://odiador.github.io/amador-homepage/">Mi portfolio</a> (en remodelación también)</h1>
