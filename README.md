@@ -10,42 +10,42 @@
   </div>
 </h3>
 
-<h3 align="center">Un apasionado estudiante de Ingeniería de Sistemas y Computación.</h3>
+# Acerca de mí
 
-<div align="center">
-  
-  🧑‍🎓 Estudando en la [Universidad del Quindío](https://www.uniquindio.edu.co/ "Uniquindio").
-  
-  En el back me encuentro enfocado en aprender Spring, y en el front conocer mas acerca de Javascript y React.
+- 🧑‍🎓 Séptimo semestre en la <a href="https://www.uniquindio.edu.co/">Universidad del Quindío</a>).
+- 🚧 en remodelación 🚧
 
-  🥇 Mejorando en la programación competitiva.
-  
-</div>
+<h1 align="center"><a href="https://odiador.github.io/amador-homepage/">Mi portfolio</a> (en remodelación también)</h1>
 
-<h1></h1>
-<div align="center">
-
-  
+# Stats
+<div align="center">  
   <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=odiador&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br>
   <img height=200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=odiador&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img height=200 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=odiador&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
+
+
 </div>
 
-<h1 align="center"> 💻 Lenguajes, frameworks y herramientas</h1>
+
+
+# 💻 Lenguajes, frameworks y herramientas (outdated)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,clion,eclipse,docker,arduino,idea" />
   <br>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,html,css,md" /><br>
-  
-<h1 align="center"> 🔍 Lenguajes, frameworks y herramientas a explorar </h1>
-  <img src="https://skillicons.dev/icons?i=kotlin,ruby,ts,js" /><br>
-  <img src="https://skillicons.dev/icons?i=gcp,mongodb,figma,npm,react,neovim,nodejs" /><br>
-
 </div>
 
-<h1 align="center">  ⭐ Proyectos Destacados ⭐ </h1>
+# 🔍 Lenguajes, frameworks y herramientas a explorar (outdated)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,ruby,ts,js" /><br>
+  <img src="https://skillicons.dev/icons?i=gcp,mongodb,figma,npm,react,neovim,nodejs" /><br>
+</div>
+
+
+# Proyectos destacados (outdated)
 
 |  Ícono                   | Nombre de Proyecto             |  Descripción | Imagen |
 :-------------------------:|:-------------------------:|:----------------------|:-------------------------:
