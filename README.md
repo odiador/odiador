@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/odiador/odiador/output/snake.svg" alt="Snake animation" />
+
+
 <h3 align="center">
   <div align="center">
     <table>
