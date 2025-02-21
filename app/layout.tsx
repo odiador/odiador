@@ -5,8 +5,12 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Odiador's Home Page",
-  description: "Odiador's Home Page",
+  title: "Juan Manuel Amador Roa",
+  description: "Portfolio web",
+  metadataBase: new URL("https://odiador.dev"),
+  alternates: {
+    canonical: "/",
+  },
 };
 
 export default function RootLayout({
@@ -15,7 +19,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning={true}>
+    <html lang="es" suppressHydrationWarning={true}>
       <body className={inter.className} >
         {children}
       </body>
