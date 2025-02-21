@@ -1,7 +1,13 @@
-import { NextResponse } from "next/server";
+import { MetadataRoute } from "next";
 
-export function GET() {
-  return new NextResponse("User-agent: *\nDisallow: http://odiador.dev/", {
-    headers: { "Content-Type": "text/plain" },
-  });
+export default function robots(): MetadataRoute.Robots {
+  return {
+    rules: [
+      {
+        userAgent: "*",
+        disallow: ["http://odiador.dev/"], // Bloquea HTTP
+      },
+    ],
+    sitemap: "https://odiador.dev/sitemap.xml",
+  };
 }
