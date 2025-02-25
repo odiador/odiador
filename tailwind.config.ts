@@ -12,6 +12,12 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        teko: ["Teko", "normal"],
+        bangers: ["Bangers", "normal"],
+        nanum: ["Nanum pen script", "normal"],
+        questrial: ["Questrial", "normal"],
+      },
     },
   },
   plugins: [],

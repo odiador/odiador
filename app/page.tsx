@@ -1,101 +1,68 @@
+import Arrow from "@/components/Arrow";
+import FooterSection from "@/components/FooterSection";
+import Lover from "@/components/Lover";
 import Image from "next/image";
+import Link from "next/link";
+import { CgMail } from "react-icons/cg";
+import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { SiLeetcode } from "react-icons/si";
 
 export default function Home() {
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+    <div className="min-h-screen w-full flex flex-col gap-8 items-center">
+      <section className="flex flex-col px-8 py-16 gap-4 min-h-screen lg:max-w-5xl w-full items-center">
+        <div className="flex flex-col items-center gap-2">
+          <h2 className="font-bangers text-balance w-full text-center text-5xl">I'm</h2>
+          <h1 className="font-bangers text-balance w-full text-center text-7xl">Juan Manuel <span className="text-teal-200">Amador</span> Roa</h1>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+        <Lover />
+        <div className="text-3xl flex justify-center gap-2">
+          <Link className="hover:scale-110 transition-all hover:text-teal-200" target="_blank" href={"https://github.com/odiador"}><FaGithub /></Link>
+          <Link className="hover:scale-110 transition-all hover:text-teal-200" target="_blank" href={"https://linkedin.com/in/jamadorr/"}><FaLinkedin /></Link>
+          <Link className="hover:scale-110 transition-all hover:text-teal-200" target="_blank" href={"https://www.instagram.com/amadour.r/"}><FaInstagram /></Link>
+        </div>
+        <Link href={"mailto:info@odiador.dev"} >
+          <button className="flex text-xl font-semibold gap-2 items-center px-4 py-2 bg-foreground text-black rounded-lg transition-all hover:scale-110 font-questrial">
+            <CgMail />info@odiador.dev</button>
+        </Link>
+        <p className="font-questrial text-balance w-full text-base"><span className="text-teal-200">Note:</span> this page is work in progress</p>
+        <Arrow href={"#about"} />
+      </section>
+      <section id="about" className="flex flex-col px-8 py-16 gap-4 min-h-screen lg:max-w-5xl w-full">
+
+        <h2 className="font-teko text-7xl text-teal-200">About me</h2>
+        <div className="flex gap-8">
+          <Link className="hover:scale-105 transition-all text-black bg-white size-52 rounded-xl flex items-center justify-center" target="_blank" href={"https://leetcode.com/u/odiador/"}>
+            <SiLeetcode className="size-40" />
+          </Link>
+          <Link className="hover:scale-105 transition-all bg-white size-52 rounded-xl flex items-center justify-center" target="_blank" href={"https://judge.beecrowd.com/en/profile/831384"}>
+            <Image src={"https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png"} alt={"Beecrowd"} width={200} height={116} className="h-fit" />
+          </Link>
+        </div>
+        <Arrow href={"#projects"} />
+      </section>
+      <section id="projects" className="flex flex-col px-8 py-16 gap-4 min-h-screen lg:max-w-5xl w-full">
+
+        <h2 className="font-teko text-7xl text-teal-200">My Projects</h2>
+        <div className="flex gap-4">
+          <Link href={"https://amaevents.vercel.app"} target="_blank"
+            className="w-[512px] px-4 py-8 rounded-xl group border-white/10 border-[1px] flex flex-col items-center gap-2 bg-white/5 hover:bg-white/10 transition-all">
+            <label className="w-full font-teko text-2xl text-teal-200">AmaTickets</label>
+            <p className="text-xl text-balance font-questrial">Web app fullstack relacionada con la compra de tickets y boletería para eventos.</p>
+            <Image src={"/amatickets.png"} alt={"Amatickets"} width={512} height={300} className="w-full h-fit rounded-xl group-hover:scale-[1.025] transition-all" />
+          </Link>
+          <Link href={"https://4colors.odiador.dev"} target="_blank"
+            className="w-[512px] px-4 py-8 rounded-xl group border-white/10 border-[1px] flex flex-col items-center gap-2 bg-white/5 hover:bg-white/10 transition-all">
+            <label className="w-full font-teko text-2xl text-teal-200">Four Colors theorem</label>
+            <p className="text-xl text-balance font-questrial">Demostración visual del teorema de los cuatro colores usando el algoritmo de Welsh-Powell</p>
+            <Image src={"/4colors.png"} alt={""} width={512} height={300} className="w-full h-fit rounded-xl group-hover:scale-[1.025] transition-all" />
+          </Link>
+        </div>
+        <div className="flex flex-col">
+        </div>
+      </section>
+      <FooterSection />
     </div>
   );
 }

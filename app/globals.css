@@ -1,17 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Nanum+Pen+Script&family=Questrial&family=Teko:wght@300..700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --background: #1b1b1b;
+  --foreground: #ededed;
 }
 
 body {
