@@ -12,7 +12,7 @@ export default function Home() {
     <div className="min-h-screen w-full flex flex-col gap-8 items-center">
       <section className="flex flex-col px-8 py-16 gap-4 min-h-screen lg:max-w-5xl w-full items-center">
         <div className="flex flex-col items-center gap-2">
-          <h2 className="font-bangers text-balance w-full text-center text-5xl">I'm</h2>
+          <h2 className="font-bangers text-balance w-full text-center text-5xl">I&apos;m</h2>
           <h1 className="font-bangers text-balance w-full text-center text-7xl">Juan Manuel <span className="text-teal-200">Amador</span> Roa</h1>
 
         </div>
@@ -45,18 +45,24 @@ export default function Home() {
       <section id="projects" className="flex flex-col px-8 py-16 gap-4 min-h-screen lg:max-w-5xl w-full">
 
         <h2 className="font-teko text-7xl text-teal-200">My Projects</h2>
-        <div className="flex gap-4">
+        <div className="flex gap-4 flex-wrap justify-center">
           <Link href={"https://amaevents.vercel.app"} target="_blank"
-            className="w-[512px] px-4 py-8 rounded-xl group border-white/10 border-[1px] flex flex-col items-center gap-2 bg-white/5 hover:bg-white/10 transition-all">
+            className="w-[448px] px-4 py-8 rounded-xl group border-white/10 border-[1px] flex flex-col items-center gap-2 bg-white/5 hover:bg-white/10 transition-all">
             <label className="w-full font-teko text-2xl text-teal-200">AmaTickets</label>
             <p className="text-xl text-balance font-questrial">Web app fullstack relacionada con la compra de tickets y boletería para eventos.</p>
             <Image src={"/amatickets.png"} alt={"Amatickets"} width={512} height={300} className="w-full h-fit rounded-xl group-hover:scale-[1.025] transition-all" />
           </Link>
           <Link href={"https://4colors.odiador.dev"} target="_blank"
-            className="w-[512px] px-4 py-8 rounded-xl group border-white/10 border-[1px] flex flex-col items-center gap-2 bg-white/5 hover:bg-white/10 transition-all">
+            className="w-[448px] px-4 py-8 rounded-xl group border-white/10 border-[1px] flex flex-col items-center gap-2 bg-white/5 hover:bg-white/10 transition-all">
             <label className="w-full font-teko text-2xl text-teal-200">Four Colors theorem</label>
             <p className="text-xl text-balance font-questrial">Demostración visual del teorema de los cuatro colores usando el algoritmo de Welsh-Powell</p>
             <Image src={"/4colors.png"} alt={""} width={512} height={300} className="w-full h-fit rounded-xl group-hover:scale-[1.025] transition-all" />
+          </Link>
+          <Link href={"https://cafesports.odiador.dev"} target="_blank"
+            className="w-[448px] px-4 py-8 rounded-xl group border-white/10 border-[1px] flex flex-col items-center gap-2 bg-white/5 hover:bg-white/10 transition-all">
+            <label className="w-full font-teko text-2xl text-teal-200">Cafesports</label>
+            <p className="text-xl text-balance font-questrial w-full">Página web de Cafesports</p>
+            <Image src={"/cafesports.png"} alt={""} width={512} height={300} className="w-full h-fit rounded-xl group-hover:scale-[1.025] transition-all" />
           </Link>
         </div>
         <div className="flex flex-col">
