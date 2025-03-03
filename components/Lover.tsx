@@ -1,12 +1,13 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 
-const transition = { duration: 1, ease: [0.25, 0.1, 0.25, 1] };
+const transition = { duration: 0.7, ease: [0.25, 0.1, 0.25, 1] };
 const variants = {
-    hidden: { filter: "blur(10px)", transform: "translateY(-50%)", opacity: 0 },
-    visible: { filter: "blur(0)", transform: "translateY(0)", opacity: 1 },
+    hidden: { opacity: 0, y: 30, filter: "blur(10px)" },
+    visible: { opacity: 1, y: 0, filter: "blur(0)" },
+    exit: { opacity: 0, y: 30, filter: "blur(10px)" },
 };
 
 const phrases = [
@@ -23,23 +24,28 @@ export default function BlurReveal() {
     useEffect(() => {
         const interval = setInterval(() => {
             setIndex((prevIndex) => (prevIndex + 1) % phrases.length);
-        }, 2000);
+        }, 2500);
 
         return () => clearInterval(interval);
     }, []);
 
     return (
-        <motion.div
-            initial="hidden"
-            animate="visible"
-            key={index}
-            transition={transition}
-            variants={variants}
-            className="font-nanum text-center text-6xl mb-8"
-        >
-            {phrases[index].map((word, i) =>
-                word.bold ? <span className="text-teal-200" key={i}>{word.text}</span> : word.text
-            )}
-        </motion.div>
+        <div className="relative h-full flex items-center justify-center flex-1">
+            <AnimatePresence mode="wait">
+                <motion.div
+                    key={index}
+                    initial="hidden"
+                    animate="visible"
+                    exit="exit"
+                    transition={transition}
+                    variants={variants}
+                    className="font-nanum text-center text-6xl mb-8 absolute"
+                >
+                    {phrases[index].map((word, i) =>
+                        word.bold ? <span className="text-teal-200" key={i}>{word.text}</span> : word.text
+                    )}
+                </motion.div>
+            </AnimatePresence>
+        </div>
     );
 }

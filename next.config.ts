@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'resources.beecrowd.com.br',
+        hostname: 'uhunt.onlinejudge.org',
         port: '',
         search: '',
       },
