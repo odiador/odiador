@@ -9,10 +9,12 @@ import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { Analytics } from "@vercel/analytics/react"
 
 export default function Home() {
   return (
     <div className="min-h-screen w-full flex flex-col gap-8 items-center">
+      <Analytics />
       <Hero />
       <About />
       <Projects />
@@ -73,35 +75,64 @@ const About = () => {
       <Arrow href={"#projects"} />
     </section>)
 }
+
+const projects: { name: string; href: string, description: string; image?: string }[] = [
+  {
+    name: "AmaTickets",
+    href: "https://amaevents.vercel.app",
+    description: "Web app fullstack relacionada con la compra de tickets y boletería para eventos.",
+    image: "/amatickets.png"
+  },
+  {
+    name: "Four Colors theorem",
+    href: "https://4colors.odiador.dev",
+    description: "Visual demonstration of the four color theorem using the Welsh-Powell algorithm.",
+    image: "/4colors.png"
+  },
+  {
+    name: "Cafesports",
+    href: "https://cafesports.club",
+    description: "Team dedicated to promoting esports in the department of Quindío, Colombia.",
+    image: "/cafesports.png"
+  },
+  {
+    name: "Solventium",
+    href: "https://solventium.net",
+    description: "Colombian company specializing in technological and legal solutions (WIP).",
+    image: "/solventium.png"
+  }
+];
+
 const Projects = () => {
   return (
     <section id="projects" className="flex flex-col p-8 gap-4 min-h-screen lg:max-w-5xl w-full">
       <h2 className="font-teko text-7xl text-teal-200">My Projects</h2>
       <div className="flex gap-4 flex-wrap justify-center">
-        <Link href={"https://amaevents.vercel.app"} target="_blank"
-          className="w-[448px] px-4 py-8 rounded-xl group border-white/10 border-[1px] flex flex-col items-center gap-2 bg-white/5 hover:bg-white/10 transition-all">
-          <label className="w-full font-teko text-2xl text-teal-200">AmaTickets</label>
-          <p className="text-xl text-balance font-questrial">Web app fullstack relacionada con la compra de tickets y boletería para eventos.</p>
-          <Image src={"/amatickets.png"} alt={"Amatickets"} width={512} height={300} className="w-full h-fit rounded-xl group-hover:scale-[1.025] transition-all" />
-        </Link>
-        <Link href={"https://4colors.odiador.dev"} target="_blank"
-          className="w-[448px] px-4 py-8 rounded-xl group border-white/10 border-[1px] flex flex-col items-center gap-2 bg-white/5 hover:bg-white/10 transition-all">
-          <label className="w-full font-teko text-2xl text-teal-200">Four Colors theorem</label>
-          <p className="text-xl text-balance font-questrial">Visual demonstration of the four color theorem using the Welsh-Powell algorithm</p>
-          <Image src={"/4colors.png"} alt={""} width={512} height={300} className="w-full h-fit rounded-xl group-hover:scale-[1.025] transition-all" />
-        </Link>
-        <Link href={"https://cafesports.club"} target="_blank"
-          className="w-[448px] px-4 py-8 rounded-xl group border-white/10 border-[1px] flex flex-col items-center gap-2 bg-white/5 hover:bg-white/10 transition-all">
-          <label className="w-full font-teko text-2xl text-teal-200">Cafesports</label>
-          <p className="text-xl text-balance font-questrial w-full">Web page of Cafesports (⚠️ Work In Progress ⚠️)</p>
-          <Image src={"/cafesports.png"} alt={""} width={512} height={300} className="w-full h-fit rounded-xl group-hover:scale-[1.025] transition-all" />
-        </Link>
-        <Link href={"https://solventium.net"} target="_blank"
-          className="w-[448px] px-4 py-8 rounded-xl group border-white/10 border-[1px] flex flex-col items-center gap-2 bg-white/5 hover:bg-white/10 transition-all">
-          <label className="w-full font-teko text-2xl text-teal-200">Solventium</label>
-          <p className="text-xl text-balance font-questrial w-full">(⚠️ Work In Progress ⚠️)</p>
-          <div className="w-full bg-white/5 animate-pulse h-64 rounded-xl group-hover:scale-[1.025] transition-all"></div>
-        </Link>
+        {projects.map((project, index) => (
+          <Link
+            key={index}
+            href={project.href}
+            target="_blank"
+            className="w-[448px] px-4 py-8 rounded-xl group border-white/10 border-[1px] flex flex-col items-center justify-between gap-2 bg-white/5 hover:bg-white/10 transition-all"
+          >
+            <div className="flex flex-col w-full">
+              <label className="w-full font-teko text-2xl text-teal-200">{project.name}</label>
+              <p className="text-xl text-balance font-questrial w-full">{project.description}</p>
+            </div>
+            {project.image ? (
+              <Image
+                src={project.image}
+                alt={project.name}
+                width={512}
+                height={300}
+                className="w-full h-fit rounded-xl group-hover:scale-[1.025] transition-all"
+              />
+            ) : (
+              <div className="w-full bg-white/5 animate-pulse h-64 rounded-xl group-hover:scale-[1.025] transition-all"></div>
+            )}
+          </Link>
+        ))}
       </div>
-    </section>)
+    </section>
+  );
 }
