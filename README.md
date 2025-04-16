@@ -15,15 +15,9 @@
     <img width=500 src="https://github.com/user-attachments/assets/a2a46cbb-44b0-4d3b-987d-4e2f1d9c5acf" alt="Socials"/>
   </a>
   <br/>
-  <a href="https://www.linkedin.com/in/jamadorr">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <br/>
-  <a href="https://odiador.github.io/odiador">
+  <a href="https://github.com/odiador/odiador/wiki/portfolio">
     <img width=500 src="https://github.com/user-attachments/assets/1c598365-6429-4a38-acf1-7c9767518c9a" alt="Portfolio"/>
   </a>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,react,ts,css" />
   <br/>
   <a href="https://github.com/odiador/odiador/wiki/Stack">
     <img width=500 src="https://github.com/user-attachments/assets/04310f28-e678-4e0c-b31a-82168b0b4c56" alt="Featured Projects"/>
