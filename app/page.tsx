@@ -78,6 +78,18 @@ const About = () => {
 
 const projects: { name: string; href: string, description: string; image?: string }[] = [
   {
+    name: "Cafesports",
+    href: "https://cafesports.club",
+    description: "Team dedicated to promoting esports in the department of Quindío, Colombia.",
+    image: "/cafesports.png"
+  },
+  {
+    name: "Solventium",
+    href: "https://solventium.net",
+    description: "Colombian company specializing in technological and legal solutions (WIP).",
+    image: "/solventium.png"
+  },
+  {
     name: "AmaTickets",
     href: "https://amaevents.vercel.app",
     description: "Web app fullstack relacionada con la compra de tickets y boletería para eventos.",
@@ -89,18 +101,6 @@ const projects: { name: string; href: string, description: string; image?: strin
     description: "Visual demonstration of the four color theorem using the Welsh-Powell algorithm.",
     image: "/4colors.png"
   },
-  {
-    name: "Cafesports",
-    href: "https://cafesports.club",
-    description: "Team dedicated to promoting esports in the department of Quindío, Colombia.",
-    image: "/cafesports.png"
-  },
-  {
-    name: "Solventium",
-    href: "https://solventium.net",
-    description: "Colombian company specializing in technological and legal solutions (WIP).",
-    image: "/solventium.png"
-  }
 ];
 
 const Projects = () => {
