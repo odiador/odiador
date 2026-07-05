@@ -1,6 +1,9 @@
 <div align="center">
-<img width=500 src="https://readme-typing-svg.herokuapp.com?font=Courier&duration=1000&pause=500&center=true&vCenter=true&repeat=true&width=500&lines=%C2%A1Hi!;I'm+Juan+Manuel+Amador+Roa" />
+  <a href="https://gitfut.com/odiador">
+    <img width=150 src="https://gitfut.com/odiador.png"/>
+  </a>
 </div>
+
 
 ```
 - A programming lover
