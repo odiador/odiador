@@ -1,33 +1,65 @@
-<br>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width=500 src="https://readme-typing-svg.herokuapp.com?font=Courier&duration=1000&pause=500&center=true&vCenter=true&repeat=true&width=500&lines=%C2%A1Hi!;I'm+Juan+Manuel+Amador" />
-      </td>
-    </tr>
-  </table>
-  <a href="https://github.com/odiador/odiador/wiki/Aboutme">
-    <img width=500 src="https://github.com/user-attachments/assets/0bd1cb29-3921-4bad-9419-0c07e022d273" alt="Aboutme"/>
-  </a>
-  <br/>
-  <a href="https://github.com/odiador/odiador/wiki/Socials">
-    <img width=500 src="https://github.com/user-attachments/assets/a2a46cbb-44b0-4d3b-987d-4e2f1d9c5acf" alt="Socials"/>
-  </a>
-  <br/>
-  <a href="https://github.com/odiador/odiador/wiki/portfolio">
-    <img width=500 src="https://github.com/user-attachments/assets/1c598365-6429-4a38-acf1-7c9767518c9a" alt="Portfolio"/>
-  </a>
-  <br/>
-  <a href="https://github.com/odiador/odiador/wiki/Stack">
-    <img width=500 src="https://github.com/user-attachments/assets/04310f28-e678-4e0c-b31a-82168b0b4c56" alt="Featured Projects"/>
-  </a>
-  <br/>
-  <a href="https://github.com/odiador/odiador/wiki/GitHub">
-    <img width=500 src="https://github.com/user-attachments/assets/8b2f27ca-e6b5-4791-a242-4eaa908c48b9" alt="Github Stats"/>
-  </a>
-  <br/>
-  <a href="https://github.com/odiador/odiador/wiki/Projects">
-    <img width=500 src="https://github.com/user-attachments/assets/e291510e-cf39-4006-b62b-28e31f2082cd" alt="Featured Projects"/>
-  </a>
+<img width=500 src="https://readme-typing-svg.herokuapp.com?font=Courier&duration=1000&pause=500&center=true&vCenter=true&repeat=true&width=500&lines=%C2%A1Hi!;I'm+Juan+Manuel+Amador+Roa" />
 </div>
+
+```
+- A programming lover
+- Always eager to innovate and bring creative solutions to life
+- I like competitive programming
+- Continuously learning and expanding my skill set
+```
+
+
+<div align="center">  
+  <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=odiador&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br>
+  <img height=200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=odiador&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img height=200 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=odiador&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://raw.githubusercontent.com/odiador/odiador/output/snake.svg" alt="Snake animation" />
+  <br/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=315eami6s62lrri5ndfd6jmnduja&count=5" alt="Spotify recently played" />
+</div>
+
+<br/>
+
+```
+Look at my dog :)
+```
+
+```
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆgGÞÞGÞÇ6Ïz{{{{{{{{í{í
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÇÏí{{{——›—íí{{{{í{í{————{——{—{—{
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆGzí—›   ›íí———›————í{{—{——{{{{—{{{—{
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÇ{››—— zÇÞ›   ››       ———{íí{{{——›——›
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆgGÅÆÅGÇ666ÇÇÞGgggÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÅüzzüz{{›   ›———   ››         ›››—›››—›››››—
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÞÇÇÞÞÇüÏí{{{{{{{{{——{{{{{{{{{{—{———{—{——›—  íí{{ííííííÏzí{{—›› ›          ›           
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ›—z{›     ›———{——zÏ——{{Ïí{{————————{{———{› ›{{{íí{{{{———›                              
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆíí—››—{ííí{{{{zzzízzÏzí{zí{——››—›———›—————————{——›— —›››                       ›››     
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆí——ííízíz{í{íüzzÏÏzÏüzÏÏÏííí{—{——————————{———›››                         ››› ›         
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆzÏízzííííí—í{{zÏÏzÏ—Ïzí———{——í———›——››››—{í——›                          ›› ›››        
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆGüüüÏzüÏ{íz—z{z{íz—ÏÏ{{íí——›› —›     › —›    ›››››                       ›            
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÇÏÏzzízzzzÏí—í— ››——›———›—››››        ›           ››                                 
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆgzÏüz{———{{——›í›—›››  ››   ——————›  —››      ›                                      
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆgzzzí{—————››› ››› › ››———í——›››         ››                                     ›
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÞízzz{——            ››{{{——{{í{——››   ›—››››                               ›››
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÇ——{í{—{—{———íí{{í—zízízÏízíí——————   —››—››                          ›  
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆí——{{í{íí{í{{{íÏzÏüíüüzÏÏ{zÏz—{—››  ›z—››                          
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÅGÇÏ{{{{—››    ››› ———›— ››››——››——zí—Ïzí{í— —  —›                        
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ6üí{{{{{{{{{{{{{—————›          {›   ››——›     —Ï{z››—›                       
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÇ{{{— —{{{{{{{{{{—› ›{     ›í{››{{{{{{{{{{{{{›      ›—üí—›{›                     
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆgz{{—   {{{{{{{——{{{›{{›—{{{{{{{———{{{—————{{{{{———›{— —í{í——›    ›                
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÞ{—››››—       ›››› ››{{{{{{—›››{{{{{{{{{{›{{——››   ›—í{{{››  — ›                
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÏ{—›››› ›—›{{—      ›› ››——{{{{————››       ››——{———íí›› ›      ›  ›           
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÏ{{›—›        ››››››                    ››     z›—í—           ››—›         
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÇ{{——{——í{—Ïíííííí—— ››   —————zzízízÏzíÏíí›—— ››››                      
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆGÇüÏízz{í{{{{—{íízÏzüüzí——›››—›————›                              
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ{                          
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÇ                         
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÇ                        
+```
