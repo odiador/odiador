@@ -25,6 +25,10 @@
 
 <br/>
 
+![Isometric Commit Calendar](./metrics.plugin.isocalendar.fullyear.svg)
+
+<br/>
+
 ```
 Look at my dog :)
 ```
